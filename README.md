@@ -1,1 +1,1 @@
-# CKD-predicton
+# CKD-prediction
